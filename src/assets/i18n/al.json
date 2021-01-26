@@ -1,0 +1,45 @@
+{
+    "inicio": {
+        "TITLE": "Startmenü",
+        "menu": {
+            "LENGUAJE": "Sprachoptionen",
+            "DEMOSTRACION": "Einfache Demonstration",
+            "FORMULARIOS": "Formulare Demonstration"
+        }
+    },
+    "lenguajes": {
+        "TITLE": "Sprachoptionen",
+        "SELECT": "Sprache",
+        "PLACEHOLDER": "Sprache",
+        "opciones": {
+            "ESPAÑOL": "Spanisch ",
+            "INGLES": "Englisch ",
+            "RUSO": "Russisch",
+            "ALEMAN": "Deutsche",
+            "PORTUGUES": "Portugiesisch",
+            "FRANCES": "Französisch"
+        }
+    },
+    "demostracion": {
+        "TITLE": "Einfache Demonstration",
+        "demo": {
+            "textos": {
+                "PRIMERO": "Dieser Text ändert die Sprache je nach Anforderung",
+                "SEGUNDO": "Das hundertjährige Baumhaus und die kleinen Feen Und schließlich hatte Cecilia ein Haus in Sorripas, einer kleinen Stadt aus Steinhütten zwischen Wäldern und Bergen, in der 36 Menschen und zwei Katzen lebten: Gatopinto und Salima. Sorripas war schneebedeckt, und im Sommer, als der Schnee schmolz, bildete sich ein wunderschöner blauer See. Die ruhigen Landstraßen, die dieses Haus umgaben, versteckten magische Orte und verzauberte Höhlen, in denen Gnome, Kobolde, winzige Feen und andere vage amorphe Kreaturen Zuflucht suchten, die vor Städten voller Menschen und Gefahren flohen. Kirche und bevor die Stadt zu Ende ging, wurde ein majestätischer hundertjähriger Baum errichtet, der stolz auf seine mächtigen Wurzeln war, die Carlitos vor Jahren entdeckt hatte."
+            },
+            "titulos": {
+                "PRIMERO": "Einführung",
+                "SEGUNDO": "Das fliegende Mädchen"
+            },
+
+            "listado": {
+                "UNO": "Banane",
+                "DOS": "Apfel",
+                "TRES": "Orange",
+                "CUATRO": "Cantaloup-Melone",
+                "CINCO": "Kirsche",
+                "SEIS": "Erdbeere"
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+<ion-header>
+    <ion-toolbar>
+        <ion-buttons slot="start">
+            <ion-back-button defaultHref="/"></ion-back-button>
+        </ion-buttons>
+        <ion-title class="ion-text-capitalize">{{"lenguajes.TITLE" | translate}}</ion-title>
+    </ion-toolbar>
+</ion-header>
+<ion-content>
+
+    <ion-card>
+        <ion-card-header>
+            <ion-card-title>{{"demostracion.demo.titulos.PRIMERO" | translate}}</ion-card-title>
+        </ion-card-header>
+
+        <ion-card-content>
+            {{"demostracion.demo.textos.PRIMERO" | translate}}
+        </ion-card-content>
+    </ion-card>
+
+    <ion-card>
+        <ion-card-header>
+            <ion-card-title>{{"demostracion.demo.titulos.SEGUNDO" | translate}}</ion-card-title>
+        </ion-card-header>
+
+        <ion-card-content>
+            {{"demostracion.demo.textos.SEGUNDO" | translate}}
+        </ion-card-content>
+    </ion-card>
+
+    <ion-list>
+        <ion-item *ngFor="let item of list">
+            <ion-avatar slot="start">
+                <img [src]="item.img" />
+            </ion-avatar>
+            <ion-label>{{item.text | translate}}</ion-label>
+        </ion-item>
+    </ion-list>
+
+</ion-content>

@@ -1,0 +1,45 @@
+{
+    "inicio": {
+        "TITLE": "Start menu",
+        "menu": {
+            "LENGUAJE": "Language options",
+            "DEMOSTRACION": "Simple demonstration",
+            "FORMULARIOS": "Forms demonstration"
+        }
+    },
+    "lenguajes": {
+        "TITLE": "Language options",
+        "SELECT": "Language",
+        "PLACEHOLDER": "Language",
+        "opciones": {
+            "ESPAÑOL": "Spanish ",
+            "INGLES": "English ",
+            "RUSO": "Russian",
+            "ALEMAN": "German",
+            "PORTUGUES": "Portuguese",
+            "FRANCES": "French"
+        }
+    },
+    "demostracion": {
+        "TITLE": "Simple demonstration",
+        "demo": {
+            "textos": {
+                "PRIMERO": "This text will change language depending on what is requested",
+                "SEGUNDO": "The centennial tree house and the tiny fairies And finally, Cecilia had a house in Sorripas, a small town of stone cabins nestled between forests and mountains where 36 people and two cats lived: Gatopinto and Salima. Sorripas was covered in snow, and in summer, when the snow melted, a beautiful blue lake formed. The quiet country roads that surrounded this house hid magical places and enchanted caves where gnomes, goblins, tiny fairies and other vague amorphous creatures took refuge that fled from cities full of people and dangers. church and before the town came to an end, a majestic centennial tree was erected proud of its powerful roots, which Carlitos had discovered years ago."
+            },
+            "titulos": {
+                "PRIMERO": "Introduction",
+                "SEGUNDO": "The flying girl"
+            },
+
+            "listado": {
+                "UNO": "Banana",
+                "DOS": "Apple",
+                "TRES": "Orange",
+                "CUATRO": "Cantaloupe",
+                "CINCO": "Cherry",
+                "SEIS": "Strawberry"
+            }
+        }
+    }
+}

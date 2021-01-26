@@ -1,0 +1,45 @@
+{
+    "inicio": {
+        "TITLE": "Inicio",
+        "menu": {
+            "LENGUAJE": "Opciones de lenguaje",
+            "DEMOSTRACION": "Desmostracion simple",
+            "FORMULARIOS": "Desmostracion de formularios"
+        }
+    },
+    "lenguajes": {
+        "TITLE": "Opciones de lenguajes",
+        "SELECT": "Lenguaje",
+        "PLACEHOLDER": "Seleccione lenguaje",
+        "opciones": {
+            "ESPAÑOL": "Español",
+            "INGLES": "Ingles",
+            "RUSO": "Ruso",
+            "ALEMAN": "Alemán",
+            "PORTUGUES": "Portugués",
+            "FRANCES": "Francés"
+        }
+    },
+    "demostracion": {
+        "TITLE": "Demostracion simple",
+        "demo": {
+            "textos": {
+                "PRIMERO": "Este texto cambiara de idioma dependiendo de lo que se pida",
+                "SEGUNDO": "La casa  del árbol centenario y  las hadas diminutas Y,por último,Cecilia tenía una casa en Sorripas,un pequeño pueblo de cabañas de piedra situado entre bosques y montañas en el que vivían 36 personas y dos gatos: Gatopinto y Salima.En invierno,Sorripas estaba cubierto de nieve y,en verano,cuando la nieve se derretía,se formaba un precioso lago de color azul. Los tranquilos caminos rurales que rodeaban esta casa escondían lugares mágicos y cuevas encantadas en los que se refugiaban gnomos,duendes, hadas diminutas y otras vagas criaturas amorfas que huían de las ciudades llenas de gentes y peligros.Por uno de esos caminos,cercano a la iglesia y antes de que el pueblo llegara su fin,se erigía un majestuoso árbol centenario orgulloso de sus poderosas raíces.Carlitos lo había descubierto años atrás. "
+            },
+            "titulos": {
+                "PRIMERO": "Introduccion",
+                "SEGUNDO": "La niña voladora"
+            },
+
+            "listado": {
+                "UNO": "Banana",
+                "DOS": "Manzana",
+                "TRES": "Naranja",
+                "CUATRO": "Melon",
+                "CINCO": "Cereza",
+                "SEIS": "Frutilla"
+            }
+        }
+    }
+}

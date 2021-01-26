@@ -1,0 +1,45 @@
+{
+    "inicio": {
+        "TITLE": "Começar",
+        "menu": {
+            "LENGUAJE": "Opções de idioma",
+            "DEMOSTRACION": "Demonstração simples",
+            "FORMULARIOS": "Demonstração de formulários"
+        }
+    },
+    "lenguajes": {
+        "TITLE": "Opções de idioma",
+        "SELECT": "idioma",
+        "PLACEHOLDER": "Selecione o idioma",
+        "opciones": {
+            "ESPAÑOL": "Espanhol",
+            "INGLES": "Inglês",
+            "RUSO": "Russo",
+            "ALEMAN": "Alemão",
+            "PORTUGUES": "Português",
+            "FRANCES": "Francês"
+        }
+    },
+    "demostracion": {
+        "TITLE": "Demonstração simples",
+        "demo": {
+            "textos": {
+                "PRIMERO": "Este texto mudará de idioma dependendo do que for solicitado",
+                "SEGUNDO": "A centenária casa na árvore e as pequenas fadas E finalmente, Cecília tinha uma casa em Sorripas, uma pequena vila de cabanas de pedra aninhada entre florestas e montanhas onde viviam 36 pessoas e dois gatos: Gatopinto e Salima. Sorripas estava coberto de neve e, no verão, quando a neve derreteu, formou-se um lindo lago azul. As calmas estradas rurais que cercavam esta casa escondiam lugares mágicos e cavernas encantadas onde gnomos, goblins, pequenas fadas e outras criaturas vagas e amorfas se refugiavam que fugiam de cidades cheias de gente e perigos. igreja e antes que a cidade chegasse ao fim, uma majestosa árvore centenária foi erguida orgulhosa de suas raízes poderosas, que Carlitos havia descoberto anos atrás."
+            },
+            "titulos": {
+                "PRIMERO": "Introdução",
+                "SEGUNDO": "A garota voadora"
+            },
+
+            "listado": {
+                "UNO": "Banana",
+                "DOS": "Maçã",
+                "TRES": "Laranja",
+                "CUATRO": "Cantalupo",
+                "CINCO": "Cereja",
+                "SEIS": "Morango"
+            }
+        }
+    }
+}

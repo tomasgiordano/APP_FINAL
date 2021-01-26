@@ -1,0 +1,45 @@
+{
+    "inicio": {
+        "TITLE": "Début",
+        "menu": {
+            "LENGUAJE": "Options de langue",
+            "DEMOSTRACION": "Démonstration simple",
+            "FORMULARIOS": "Démonstration de formulaires"
+        }
+    },
+    "lenguajes": {
+        "TITLE": "Options de langue",
+        "SELECT": "Langue",
+        "PLACEHOLDER": "Langue",
+        "opciones": {
+            "ESPAÑOL": "Espagnole ",
+            "INGLES": "Anglais ",
+            "RUSO": "Russe",
+            "ALEMAN": "Allemand",
+            "PORTUGUES": "Portugais",
+            "FRANCES": "Français"
+        }
+    },
+    "demostracion": {
+        "TITLE": "Démonstration simple",
+        "demo": {
+            "textos": {
+                "PRIMERO": "Ce texte changera de langue en fonction de ce qui est demandé",
+                "SEGUNDO": "La cabane centenaire et les petites fées Et enfin, Cecilia avait une maison à Sorripas, une petite ville de cabanes en pierre nichée entre forêts et montagnes où vivaient 36 personnes et deux chats: Gatopinto et Salima. Sorripas était recouverte de neige et en été, lorsque la neige a fondu, un beau lac bleu s'est formé. Les routes de campagne tranquilles qui entouraient cette maison cachaient des lieux magiques et des grottes enchantées où se réfugiaient gnomes, gobelins, minuscules fées et autres vagues créatures amorphes qui fuyaient des villes pleines de gens et de dangers. et avant la fin de la ville, un majestueux arbre centenaire a été érigé, fier de ses racines puissantes, que Carlitos avait découvertes il y a des années."
+            },
+            "titulos": {
+                "PRIMERO": "Introduction",
+                "SEGUNDO": "La fille volante"
+            },
+
+            "listado": {
+                "UNO": "Banane",
+                "DOS": "Pomme",
+                "TRES": "Orange",
+                "CUATRO": "Cantaloup",
+                "CINCO": "Cherry",
+                "SEIS": "Cerise"
+            }
+        }
+    }
+}
